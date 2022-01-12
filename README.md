@@ -1,2 +1,1 @@
-# PyChat-Linode
 # py-chat
