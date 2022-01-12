@@ -1,7 +1,7 @@
 import threading
 import socket
 
-PORT = 5050
+PORT = 5051
 SERVER = socket.gethostbyname(socket.gethostname())
 ADDR = (SERVER, PORT)
 FORMAT = "utf-8"
