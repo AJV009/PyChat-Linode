@@ -1,5 +1,3 @@
-import time
-import threading
 import socket
 
 PORT = 5051
